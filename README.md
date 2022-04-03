@@ -1,6 +1,6 @@
 # Employee Tracker
 
-(![Screenshot (54)](https://user-images.githubusercontent.com/15861137/161443200-c0d546e5-75e3-42a9-be6f-0382c9a6c4d5.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/15861137/161443200-c0d546e5-75e3-42a9-be6f-0382c9a6c4d5.png)
 
  # Table of Contents
   * [Description](#description)
